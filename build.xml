@@ -1,0 +1,151 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- WARNING: Eclipse auto-generated file.
+              Any modifications will be overwritten.
+              To include a user specific buildfile here, simply create one in the same
+              directory with the processing instruction <?eclipse.ant.import?>
+              as the first entry and export the buildfile again. --><project basedir="." default="build" name="LWM2MProject">
+    <property environment="env"/>
+   
+    <property name="junit.output.dir" value="junit"/>
+    <property name="debuglevel" value="source,lines,vars"/>
+	<property name="project.jar.name.dir" value="LWM2M-jar"/>
+    <property name="target" value="1.7"/>
+    <property name="source" value="1.7"/>
+    <path id="JUnit 4.libraryclasspath">
+        <pathelement location="lib/junit.jar"/>
+        <pathelement location="lib/org.hamcrest.core_1.1.0.v20090501071000.jar"/>
+    </path>
+    <path id="LWM2MProject.classpath">
+        <pathelement location="bin"/>
+        <pathelement location="lib/californium-0.13.6.jar"/>
+        <pathelement location="lib/gson-2.2.4.jar"/>
+        <path refid="JUnit 4.libraryclasspath"/>
+    </path>
+    <target name="init">
+        <mkdir dir="bin"/>
+        <copy includeemptydirs="false" todir="bin">
+            <fileset dir="src">
+                <exclude name="**/*.java"/>
+            </fileset>
+        </copy>
+        <copy includeemptydirs="false" todir="bin">
+            <fileset dir="test">
+                <exclude name="**/*.java"/>
+            </fileset>
+        </copy>
+    </target>
+    <target name="clean">
+        <delete dir="bin"/>
+		<delete dir="${project.jar.name.dir}"/>
+    </target>
+    <target depends="clean" name="cleanall"/>
+    <target depends="build-subprojects,build-project" name="build"/>
+    <target name="build-subprojects"/>
+    <target depends="init" name="build-project">
+		<echo message="${ant.project.name}: ${ant.file}"/>
+        <javac debug="true" debuglevel="${debuglevel}" destdir="bin" includeantruntime="false" source="${source}" target="${target}">
+            <src path="src"/>
+            <src path="test"/>
+            <classpath refid="LWM2MProject.classpath"/>
+        </javac>
+    </target>
+    <target description="Build all projects which reference this project. Useful to propagate changes." name="build-refprojects"/>
+    <target description="copy Eclipse compiler jars to ant lib directory" name="init-eclipse-compiler">
+        <copy todir="${ant.library.dir}">
+            <fileset dir="${ECLIPSE_HOME}/plugins" includes="org.eclipse.jdt.core_*.jar"/>
+        </copy>
+        <unzip dest="${ant.library.dir}">
+            <patternset includes="jdtCompilerAdapter.jar"/>
+            <fileset dir="${ECLIPSE_HOME}/plugins" includes="org.eclipse.jdt.core_*.jar"/>
+        </unzip>
+    </target>
+    <target description="compile project with Eclipse compiler" name="build-eclipse-compiler">
+        <property name="build.compiler" value="org.eclipse.jdt.core.JDTCompilerAdapter"/>
+        <antcall target="build"/>
+    </target>
+    <target name="CoAPServer">
+        <java classname="com.hackathon.acs.lwm2mconnectorinbound.server.CoAPServer" failonerror="true" fork="yes">
+            <classpath refid="LWM2MProject.classpath"/>
+        </java>
+    </target>
+    <target name="DeleteClient">
+        <java classname="com.hackathon.acs.lwm2mconnectorinbound.client.test.DeleteClient" failonerror="true" fork="yes">
+            <classpath refid="LWM2MProject.classpath"/>
+        </java>
+    </target>
+    <target name="GETClient">
+        <java classname="com.hackathon.acs.lwm2mconnectorinbound.client.test.GETClient" failonerror="true" fork="yes">
+            <classpath refid="LWM2MProject.classpath"/>
+        </java>
+    </target>
+    <target name="Lwm2mTLVManagement">
+        <java classname="com.hackathon.acs.lwm2m.tlv.Lwm2mTLVManagement" failonerror="true" fork="yes">
+            <classpath refid="LWM2MProject.classpath"/>
+        </java>
+    </target>
+    <target name="LWM2MTlvTest">
+        <java classname="com.hackathon.acs.lwm2mconnectorinbound.client.test.LWM2MTlvTest" failonerror="true" fork="yes">
+            <classpath refid="LWM2MProject.classpath"/>
+        </java>
+    </target>
+    <target name="PostClient">
+        <java classname="com.hackathon.acs.lwm2mconnectorinbound.client.test.PostClient" failonerror="true" fork="yes">
+            <classpath refid="LWM2MProject.classpath"/>
+        </java>
+    </target>
+    <target name="PutClient">
+        <java classname="com.hackathon.acs.lwm2mconnectorinbound.client.test.PutClient" failonerror="true" fork="yes">
+            <classpath refid="LWM2MProject.classpath"/>
+        </java>
+    </target>
+    <target name="LWM2MServerTest">
+        <mkdir dir="${junit.output.dir}"/>
+        <junit fork="yes" printsummary="withOutAndErr">
+            <formatter type="xml"/>
+            <test name="com.hackathon.acs.lwm2mconnectorinbound.client.test.LWM2MServerTest" todir="${junit.output.dir}"/>
+            <classpath refid="LWM2MProject.classpath"/>
+        </junit>
+    </target>
+    <target name="LWM2MServerTest.testRegistrationReqest">
+        <mkdir dir="${junit.output.dir}"/>
+        <junit fork="yes" printsummary="withOutAndErr">
+            <formatter type="xml"/>
+            <test name="com.hackathon.acs.lwm2mconnectorinbound.client.test.LWM2MServerTest" todir="${junit.output.dir}"/>
+            <classpath refid="LWM2MProject.classpath"/>
+        </junit>
+    </target>
+    <target name="LWM2MServerTest.testUpdateReqest">
+        <mkdir dir="${junit.output.dir}"/>
+        <junit fork="yes" printsummary="withOutAndErr">
+            <formatter type="xml"/>
+            <test name="com.hackathon.acs.lwm2mconnectorinbound.client.test.LWM2MServerTest" todir="${junit.output.dir}"/>
+            <classpath refid="LWM2MProject.classpath"/>
+        </junit>
+    </target>
+    <target name="LWM2MServerTest.testDeregisterRequest">
+        <mkdir dir="${junit.output.dir}"/>
+        <junit fork="yes" printsummary="withOutAndErr">
+            <formatter type="xml"/>
+            <test name="com.hackathon.acs.lwm2mconnectorinbound.client.test.LWM2MServerTest" todir="${junit.output.dir}"/>
+            <classpath refid="LWM2MProject.classpath"/>
+        </junit>
+    </target>
+    <target name="junitreport">
+        <junitreport todir="${junit.output.dir}">
+            <fileset dir="${junit.output.dir}">
+                <include name="TEST-*.xml"/>
+            </fileset>
+            <report format="frames" todir="${junit.output.dir}"/>
+        </junitreport>
+    </target>
+	<target name="build-jar">
+		<jar destfile = "${project.jar.name.dir}/lwm2mserver.jar"
+			basedir = "bin">
+			<manifest>
+				<attribute name = "Main-Class" value = "com.hackathon.acs.lwm2mconnectorinbound.server.CoAPServer"/>
+			</manifest>
+			 <zipgroupfileset dir="lib" includes="**/*.jar"/>
+		</jar>
+	</target>
+</project>
+

@@ -1,0 +1,4 @@
+2015-04-06 11:41:47 [util.Log] INFO - ==[ START-UP ]========================================================
+2015-04-06 11:41:47 [coap.CommunicatorFactory] SEVERE - Cannot create the communicator, exiting
+2015-04-06 12:26:01 [util.Log] INFO - ==[ START-UP ]========================================================
+2015-04-06 12:26:01 [layers.CoapStack] INFO - CoapStack started
