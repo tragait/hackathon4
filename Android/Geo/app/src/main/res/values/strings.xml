@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Geo</string>
+    <string name="title_activity_maps">Geo</string>
+    <string name="title_activity_maps_activity_new">Map</string>
+    <string name="title_activity_abc">Map</string>
+    <string name="title_activity_main_voice">MainVoiceActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
