@@ -2,6 +2,7 @@ package com.hackathon.acs.lwm2mconnectorinbound.server;
 
 import java.util.HashMap;
 import java.util.Map;
+import java.util.Set;
 import java.util.Timer;
 import java.util.TimerTask;
 
@@ -48,6 +49,18 @@ public class LWM2MServer {
 	public LWM2MClient getClient(String clientIdentifier)
 	{
 		return clientList.get(clientIdentifier);
+	}
+	
+	public LWM2MClient getClientFromURI(String URI)
+	{	LWM2MClient client = null;
+		Set<String> keySet = this.clientList.keySet();
+		for (String key : keySet) {
+			client = clientList.get(key);
+			if(URI.equalsIgnoreCase(client.getUriHost()+":"+client.getUriPort())){
+				return client;				
+			}
+		}
+		return client;
 	}
 	
 	public void addLWM2MClient(final LWM2MClient client)

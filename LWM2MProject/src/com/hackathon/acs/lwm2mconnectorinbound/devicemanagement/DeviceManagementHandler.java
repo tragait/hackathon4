@@ -46,6 +46,7 @@ public class DeviceManagementHandler {
 				GETRequest request = new GETRequest(){
 					@Override
 					protected void handleResponse(Response response) {
+						System.out.println(response.toString());
 						response.prettyPrint();
 						int mediaType = response.getContentType();
 						switch(mediaType)
@@ -114,6 +115,7 @@ public class DeviceManagementHandler {
 				GETRequest request = new GETRequest(){
 					@Override
 					protected void handleResponse(Response response) {
+						System.out.println(response.toString());
 						response.prettyPrint();
 						int mediaType = response.getContentType();
 						switch(mediaType)
@@ -186,6 +188,7 @@ public class DeviceManagementHandler {
 				GETRequest request = new GETRequest(){
 					@Override
 					protected void handleResponse(Response response) {
+						System.out.println(response.toString());
 						response.prettyPrint();
 						int mediaType = response.getContentType();
 						switch(mediaType)
@@ -263,6 +266,7 @@ public class DeviceManagementHandler {
 			PUTRequest request = new PUTRequest(){
 				@Override
 				protected void handleResponse(Response response) {
+					System.out.println(response.toString());
 					response.prettyPrint();
 				}
 			};
@@ -309,6 +313,7 @@ public class DeviceManagementHandler {
 			PUTRequest request = new PUTRequest(){
 				@Override
 				protected void handleResponse(Response response) {
+					System.out.println(response.toString());
 					response.prettyPrint();
 				}
 			};
@@ -359,6 +364,7 @@ public class DeviceManagementHandler {
 			PUTRequest request = new PUTRequest(){
 				@Override
 				protected void handleResponse(Response response) {
+					System.out.println(response.toString());
 					response.prettyPrint();
 				}
 			};
@@ -394,6 +400,7 @@ public class DeviceManagementHandler {
 				@Override
 				protected void handleResponse(Response response) {
 					response.prettyPrint();
+					System.out.println(response.toString());
 				}
 			};
 			request.setURI(client.getUri());
@@ -433,6 +440,7 @@ public class DeviceManagementHandler {
 			POSTRequest request = new POSTRequest(){
 				@Override
 				protected void handleResponse(Response response) {
+					System.out.println(response.toString());
 					response.prettyPrint();
 				}
 			};
@@ -469,6 +477,7 @@ public class DeviceManagementHandler {
 			DELETERequest request = new DELETERequest(){
 				@Override
 				protected void handleResponse(Response response) {
+					System.out.println(response.toString());
 					response.prettyPrint();
 				}
 			};

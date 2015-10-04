@@ -2331,3 +2331,1103 @@
 2015-10-02 18:15:33 [layers.CoapStack] INFO - CoapStack started
 2015-10-02 18:23:48 [util.Log] INFO - ==[ START-UP ]========================================================
 2015-10-02 18:23:48 [layers.CoapStack] INFO - CoapStack started
+2015-10-02 22:09:30 [util.Log] INFO - ==[ START-UP ]========================================================
+2015-10-02 22:09:30 [layers.CoapStack] INFO - CoapStack started
+2015-10-02 22:12:33 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:9000#0C 8E 9C C9
+2015-10-02 22:12:33 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:9000#0C 8E 9C C9
+2015-10-02 22:35:04 [util.Log] INFO - ==[ START-UP ]========================================================
+2015-10-02 22:35:04 [layers.CoapStack] INFO - CoapStack started
+2015-10-02 22:43:39 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:6666#--
+2015-10-02 22:43:39 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:6666#--
+2015-10-03 16:59:17 [util.Log] INFO - ==[ START-UP ]========================================================
+2015-10-03 16:59:17 [layers.CoapStack] INFO - CoapStack started
+2015-10-03 16:59:47 [layers.MatchingLayer] INFO - Remote endpoint failed to echo token: [0:0:0:0:0:0:0:1]:50236|30576|CON
+2015-10-03 16:59:47 [layers.TokenLayer] INFO - Rejecting message: [0:0:0:0:0:0:0:1]:50236|30576|RST
+2015-10-03 17:00:37 [layers.MatchingLayer] INFO - Remote endpoint failed to echo token: [0:0:0:0:0:0:0:1]:50236|30577|CON
+2015-10-03 17:00:37 [layers.TokenLayer] INFO - Rejecting message: [0:0:0:0:0:0:0:1]:50236|30577|RST
+2015-10-03 17:01:04 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:01:04 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:01:12 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:01:12 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:01:16 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:01:16 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:01:18 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:01:18 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:01:26 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:01:26 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:02:25 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:02:25 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:03:24 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:03:24 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:04:23 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:04:23 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:05:22 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:05:22 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:06:21 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:06:21 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:07:20 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:07:20 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:08:19 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:08:19 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:09:18 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:09:18 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:10:17 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:10:17 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:11:16 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:11:16 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:12:15 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:12:15 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:13:14 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:13:14 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:14:13 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:14:13 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:15:12 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:15:13 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:16:12 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:16:12 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:17:11 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:17:11 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:18:10 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:18:10 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:19:09 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:19:09 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:20:08 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:20:08 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:21:07 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:21:07 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:22:06 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:22:06 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:23:05 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:23:05 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:24:04 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:24:04 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:25:03 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:25:03 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:26:02 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:26:02 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:27:01 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:27:01 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:28:00 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:28:00 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:28:59 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:28:59 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:29:58 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:29:58 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:30:57 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:30:57 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:31:33 [layers.MatchingLayer] INFO - Remote endpoint failed to echo token: [0:0:0:0:0:0:0:1]:50236|30613|CON
+2015-10-03 17:31:33 [layers.TokenLayer] INFO - Rejecting message: [0:0:0:0:0:0:0:1]:50236|30613|RST
+2015-10-03 17:31:56 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:31:56 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:32:55 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:32:55 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:33:54 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:33:54 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:34:53 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:34:53 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:35:52 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:35:52 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:36:51 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:36:51 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:37:50 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:37:50 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:50236#--
+2015-10-03 17:39:03 [layers.TokenLayer] INFO - Assigned automatic Token for: 127.0.0.1:5683#--
+2015-10-03 17:39:03 [layers.TokenLayer] INFO - Requesting response for /0: 127.0.0.1:5683#--
+2015-10-03 17:39:03 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:5683#--
+2015-10-03 17:39:03 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:5683#--
+2015-10-03 17:39:03 [layers.TokenLayer] INFO - Incoming response from /0: 127.0.0.1:5683#-- // RTT: 5.748034ms
+2015-10-03 17:41:31 [util.Log] INFO - ==[ START-UP ]========================================================
+2015-10-03 17:41:31 [layers.CoapStack] INFO - CoapStack started
+2015-10-03 17:50:00 [layers.MatchingLayer] INFO - Remote endpoint failed to echo token: [0:0:0:0:0:0:0:1]:61410|39749|CON
+2015-10-03 17:50:00 [layers.TokenLayer] INFO - Rejecting message: [0:0:0:0:0:0:0:1]:61410|39749|RST
+2015-10-03 17:50:14 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:61410#--
+2015-10-03 17:50:14 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:61410#--
+2015-10-03 17:51:13 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:61410#--
+2015-10-03 17:51:13 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:61410#--
+2015-10-03 17:54:26 [util.Log] INFO - ==[ START-UP ]========================================================
+2015-10-03 17:54:26 [layers.CoapStack] INFO - CoapStack started
+2015-10-03 17:55:06 [layers.MatchingLayer] INFO - Remote endpoint failed to echo token: [0:0:0:0:0:0:0:1]:51435|39116|CON
+2015-10-03 17:55:06 [layers.TokenLayer] INFO - Rejecting message: [0:0:0:0:0:0:0:1]:51435|39116|RST
+2015-10-03 17:55:16 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:51435#--
+2015-10-03 17:55:16 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:51435#--
+2015-10-03 17:55:59 [layers.TokenLayer] INFO - Assigned automatic Token for: 127.0.0.1:5683#--
+2015-10-03 17:55:59 [layers.TokenLayer] INFO - Requesting response for /3/0/3: 127.0.0.1:5683#--
+2015-10-03 17:55:59 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:5683#--
+2015-10-03 17:55:59 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:5683#--
+2015-10-03 17:55:59 [layers.TokenLayer] INFO - Incoming response from /3/0/3: 127.0.0.1:5683#-- // RTT: 8.844283ms
+2015-10-03 17:56:38 [layers.TokenLayer] INFO - Assigned automatic Token for: 127.0.0.1:5683#--
+2015-10-03 17:56:38 [layers.TokenLayer] INFO - Requesting response for /3/0/3: 127.0.0.1:5683#--
+2015-10-03 17:56:38 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:5683#--
+2015-10-03 17:56:38 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:5683#--
+2015-10-03 17:56:38 [layers.TokenLayer] INFO - Incoming response from /3/0/3: 127.0.0.1:5683#-- // RTT: 7.450102ms
+2015-10-03 17:57:15 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:51435#--
+2015-10-03 17:57:15 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:51435#--
+2015-10-03 17:58:36 [layers.TokenLayer] INFO - Assigned automatic Token for: 127.0.0.1:5683#--
+2015-10-03 17:58:36 [layers.TokenLayer] INFO - Requesting response for /3/0/3: 127.0.0.1:5683#--
+2015-10-03 17:58:36 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:5683#--
+2015-10-03 17:58:36 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:5683#--
+2015-10-03 17:58:36 [layers.TokenLayer] INFO - Incoming response from /3/0/3: 127.0.0.1:5683#-- // RTT: 8.736917ms
+2015-10-03 17:59:14 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:51435#--
+2015-10-03 17:59:14 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:51435#--
+2015-10-03 17:59:37 [util.Log] INFO - ==[ START-UP ]========================================================
+2015-10-03 17:59:37 [layers.CoapStack] INFO - CoapStack started
+2015-10-03 17:59:55 [layers.MatchingLayer] INFO - Remote endpoint failed to echo token: [0:0:0:0:0:0:0:1]:59830|7757|CON
+2015-10-03 17:59:55 [layers.TokenLayer] INFO - Rejecting message: [0:0:0:0:0:0:0:1]:59830|7757|RST
+2015-10-03 18:00:04 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:59830#--
+2015-10-03 18:00:04 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:59830#--
+2015-10-03 18:00:19 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:59830#--
+2015-10-03 18:00:19 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:59830#--
+2015-10-03 18:03:01 [layers.TokenLayer] INFO - Assigned automatic Token for: 127.0.0.1:5683#--
+2015-10-03 18:03:01 [layers.TokenLayer] INFO - Requesting response for /0/0/0: 127.0.0.1:5683#--
+2015-10-03 18:03:01 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:5683#--
+2015-10-03 18:03:01 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:5683#--
+2015-10-03 18:03:01 [layers.TokenLayer] INFO - Incoming response from /0/0/0: 127.0.0.1:5683#-- // RTT: 7.807726ms
+2015-10-03 18:03:18 [layers.TokenLayer] INFO - Assigned automatic Token for: 127.0.0.1:5683#--
+2015-10-03 18:03:18 [layers.TokenLayer] INFO - Requesting response for /0/0: 127.0.0.1:5683#--
+2015-10-03 18:03:18 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:5683#--
+2015-10-03 18:03:18 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:5683#--
+2015-10-03 18:03:18 [layers.TokenLayer] INFO - Incoming response from /0/0: 127.0.0.1:5683#-- // RTT: 13.371422ms
+2015-10-03 18:03:24 [layers.TokenLayer] INFO - Assigned automatic Token for: 127.0.0.1:5683#--
+2015-10-03 18:03:24 [layers.TokenLayer] INFO - Requesting response for /0/0/0: 127.0.0.1:5683#--
+2015-10-03 18:03:24 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:5683#--
+2015-10-03 18:03:24 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:5683#--
+2015-10-03 18:03:24 [layers.TokenLayer] INFO - Incoming response from /0/0/0: 127.0.0.1:5683#-- // RTT: 9.324272ms
+2015-10-03 18:03:32 [layers.TokenLayer] INFO - Assigned automatic Token for: 127.0.0.1:5683#--
+2015-10-03 18:03:32 [layers.TokenLayer] INFO - Requesting response for /0/0/0: 127.0.0.1:5683#--
+2015-10-03 18:03:32 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:5683#--
+2015-10-03 18:03:32 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:5683#--
+2015-10-03 18:03:32 [layers.TokenLayer] INFO - Incoming response from /0/0/0: 127.0.0.1:5683#-- // RTT: 12.916695ms
+2015-10-03 18:03:42 [layers.TokenLayer] INFO - Assigned automatic Token for: 127.0.0.1:5683#--
+2015-10-03 18:03:42 [layers.TokenLayer] INFO - Requesting response for /0/0: 127.0.0.1:5683#--
+2015-10-03 18:03:42 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:5683#--
+2015-10-03 18:03:42 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:5683#--
+2015-10-03 18:03:42 [layers.TokenLayer] INFO - Incoming response from /0/0: 127.0.0.1:5683#-- // RTT: 6.439203ms
+2015-10-03 18:42:44 [util.Log] INFO - ==[ START-UP ]========================================================
+2015-10-03 18:42:44 [layers.CoapStack] INFO - CoapStack started
+2015-10-03 18:42:51 [layers.MatchingLayer] INFO - Remote endpoint failed to echo token: [0:0:0:0:0:0:0:1]:57398|53988|CON
+2015-10-03 18:42:51 [layers.TokenLayer] INFO - Rejecting message: [0:0:0:0:0:0:0:1]:57398|53988|RST
+2015-10-03 18:43:02 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:57398#--
+2015-10-03 18:43:02 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:57398#--
+2015-10-03 18:43:45 [layers.TokenLayer] INFO - Assigned automatic Token for: 127.0.0.1:5683#--
+2015-10-03 18:43:45 [layers.TokenLayer] INFO - Requesting response for /0/1: 127.0.0.1:5683#--
+2015-10-03 18:43:45 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:5683#--
+2015-10-03 18:43:45 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:5683#--
+2015-10-03 18:43:45 [layers.TokenLayer] INFO - Incoming response from /0/1: 127.0.0.1:5683#-- // RTT: 7.230633ms
+2015-10-03 18:49:48 [util.Log] INFO - ==[ START-UP ]========================================================
+2015-10-03 18:49:48 [layers.CoapStack] INFO - CoapStack started
+2015-10-03 18:50:11 [layers.MatchingLayer] INFO - Remote endpoint failed to echo token: [0:0:0:0:0:0:0:1]:55086|2357|CON
+2015-10-03 18:50:11 [layers.TokenLayer] INFO - Rejecting message: [0:0:0:0:0:0:0:1]:55086|2357|RST
+2015-10-03 18:50:21 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:55086#--
+2015-10-03 18:50:23 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:55086#--
+2015-10-03 18:50:27 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:55086#--
+2015-10-03 18:50:35 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:55086#--
+2015-10-03 18:50:51 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:55086#--
+2015-10-03 18:54:07 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:55086#--
+2015-10-03 18:54:10 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:55086#--
+2015-10-03 18:54:11 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:55086#--
+2015-10-03 18:54:12 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:55086#--
+2015-10-03 18:54:22 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:55086#--
+2015-10-03 18:54:36 [util.Log] INFO - ==[ START-UP ]========================================================
+2015-10-03 18:54:36 [layers.CoapStack] INFO - CoapStack started
+2015-10-03 18:54:52 [layers.MatchingLayer] INFO - Remote endpoint failed to echo token: [0:0:0:0:0:0:0:1]:55693|63726|CON
+2015-10-03 18:54:52 [layers.TokenLayer] INFO - Rejecting message: [0:0:0:0:0:0:0:1]:55693|63726|RST
+2015-10-03 18:55:03 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:55693#--
+2015-10-03 18:55:05 [layers.TokenLayer] INFO - Incoming request: [0:0:0:0:0:0:0:1]:55693#--
+2015-10-03 18:55:06 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:55693#--
+2015-10-03 18:55:07 [layers.TokenLayer] INFO - Responding request: [0:0:0:0:0:0:0:1]:55693#--
+2015-10-03 19:44:29 [layers.TokenLayer] INFO - Assigned automatic Token for: 127.0.0.1:5683#--
+2015-10-03 19:44:29 [layers.TokenLayer] INFO - Requesting response for /0/1: 127.0.0.1:5683#--
+2015-10-03 19:44:29 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:5683#--
+2015-10-03 19:44:29 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:5683#--
+2015-10-03 19:44:29 [layers.TokenLayer] INFO - Incoming response from /0/1: 127.0.0.1:5683#-- // RTT: 7.214055ms
+2015-10-03 19:46:02 [layers.TokenLayer] INFO - Assigned automatic Token for: 127.0.0.1:5683#--
+2015-10-03 19:46:02 [layers.TokenLayer] INFO - Requesting response for /0/1: 127.0.0.1:5683#--
+2015-10-03 19:46:02 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:5683#--
+2015-10-03 19:46:02 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:5683#--
+2015-10-03 19:46:02 [layers.TokenLayer] INFO - Incoming response from /0/1: 127.0.0.1:5683#-- // RTT: 5.284228ms
+2015-10-03 19:55:50 [util.Log] INFO - ==[ START-UP ]========================================================
+2015-10-03 19:55:50 [layers.CoapStack] INFO - CoapStack started
+2015-10-03 19:56:00 [layers.MatchingLayer] INFO - Remote endpoint failed to echo token: 127.0.0.1:62024|17765|CON
+2015-10-03 19:56:00 [layers.TokenLayer] INFO - Rejecting message: 127.0.0.1:62024|17765|RST
+2015-10-03 19:56:36 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:62024#--
+2015-10-03 19:56:36 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:62024#--
+2015-10-03 19:56:55 [layers.TokenLayer] INFO - Assigned automatic Token for: 127.0.0.1:62024#--
+2015-10-03 19:56:55 [layers.TokenLayer] INFO - Requesting response for /0/1: 127.0.0.1:62024#--
+2015-10-03 19:56:55 [layers.MatchingLayer] INFO - Dropping unexpected response: 127.0.0.1:62024#65 6D 70 74 79
+2015-10-03 19:57:35 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:62024#--
+2015-10-03 19:57:35 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:62024#--
+2015-10-03 19:58:34 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:62024#--
+2015-10-03 19:58:34 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:62024#--
+2015-10-03 19:58:35 [layers.TokenLayer] WARNING - Request/Response exchange timed out: 127.0.0.1:62024#--
+2015-10-03 19:59:33 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:62024#--
+2015-10-03 19:59:33 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:62024#--
+2015-10-03 20:00:32 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:62024#--
+2015-10-03 20:00:32 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:62024#--
+2015-10-03 20:01:31 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:62024#--
+2015-10-03 20:01:31 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:62024#--
+2015-10-03 20:02:30 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:62024#--
+2015-10-03 20:02:30 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:62024#--
+2015-10-03 20:03:29 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:62024#--
+2015-10-03 20:03:29 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:62024#--
+2015-10-03 20:04:28 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:62024#--
+2015-10-03 20:04:28 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:62024#--
+2015-10-03 20:05:27 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:62024#--
+2015-10-03 20:05:27 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:62024#--
+2015-10-03 20:06:26 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:62024#--
+2015-10-03 20:06:26 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:62024#--
+2015-10-03 20:07:25 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:62024#--
+2015-10-03 20:07:25 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:62024#--
+2015-10-03 20:08:24 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:62024#--
+2015-10-03 20:08:24 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:62024#--
+2015-10-03 20:09:23 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:62024#--
+2015-10-03 20:09:23 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:62024#--
+2015-10-03 20:10:22 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:62024#--
+2015-10-03 20:10:22 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:62024#--
+2015-10-03 20:11:21 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:62024#--
+2015-10-03 20:11:21 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:62024#--
+2015-10-03 20:12:20 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:62024#--
+2015-10-03 20:12:20 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:62024#--
+2015-10-03 20:12:40 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:62024#--
+2015-10-03 20:12:40 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:62024#--
+2015-10-03 20:13:30 [layers.TokenLayer] INFO - Assigned automatic Token for: 127.0.0.1:62024#--
+2015-10-03 20:13:30 [layers.TokenLayer] INFO - Requesting response for /1/0: 127.0.0.1:62024#--
+2015-10-03 20:13:30 [layers.MatchingLayer] INFO - Dropping unexpected response: 127.0.0.1:62024#65 6D 70 74 79
+2015-10-03 20:14:13 [coap.TokenManager] INFO - Token value: 231
+2015-10-03 20:14:13 [layers.TokenLayer] INFO - Assigned automatic Token for: 127.0.0.1:62024#E7
+2015-10-03 20:14:13 [layers.TokenLayer] INFO - Requesting response for /0/0: 127.0.0.1:62024#E7
+2015-10-03 20:14:13 [coap.TokenManager] WARNING - Token to release is not acquired: E7
+
+2015-10-03 20:14:13 [layers.TokenLayer] INFO - Incoming response from /0/0: 127.0.0.1:62024#E7 // RTT: 39.460201ms
+2015-10-03 20:15:10 [layers.TokenLayer] WARNING - Request/Response exchange timed out: 127.0.0.1:62024#--
+2015-10-03 20:15:46 [layers.TokenLayer] INFO - Assigned automatic Token for: 127.0.0.1:62024#--
+2015-10-03 20:15:46 [layers.TokenLayer] INFO - Requesting response for /3/0/3: 127.0.0.1:62024#--
+2015-10-03 20:15:46 [layers.MatchingLayer] INFO - Dropping unexpected response: 127.0.0.1:62024#65 6D 70 74 79
+2015-10-03 20:17:26 [layers.TokenLayer] WARNING - Request/Response exchange timed out: 127.0.0.1:62024#--
+2015-10-03 20:22:39 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:62024#--
+2015-10-03 20:22:39 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:62024#--
+2015-10-03 20:29:49 [layers.TokenLayer] INFO - Assigned automatic Token for: 127.0.0.1:62024#--
+2015-10-03 20:29:49 [layers.TokenLayer] INFO - Requesting response for /2/0/2: 127.0.0.1:62024#--
+2015-10-03 20:29:49 [layers.MatchingLayer] INFO - Dropping unexpected response: 127.0.0.1:62024#65 6D 70 74 79
+2015-10-03 20:30:31 [coap.TokenManager] INFO - Token value: 232
+2015-10-03 20:30:31 [layers.TokenLayer] INFO - Assigned automatic Token for: 127.0.0.1:62024#E8
+2015-10-03 20:30:31 [layers.TokenLayer] INFO - Requesting response for /2/0/2: 127.0.0.1:62024#E8
+2015-10-03 20:30:31 [coap.TokenManager] WARNING - Token to release is not acquired: E8
+
+2015-10-03 20:30:31 [layers.TokenLayer] INFO - Incoming response from /2/0/2: 127.0.0.1:62024#E8 // RTT: 42.707236ms
+2015-10-03 20:31:29 [layers.TokenLayer] WARNING - Request/Response exchange timed out: 127.0.0.1:62024#--
+2015-10-03 20:32:38 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:62024#--
+2015-10-03 20:32:38 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:62024#--
+2015-10-03 20:32:51 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:62024#--
+2015-10-03 20:32:51 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:62024#--
+2015-10-03 20:37:00 [layers.TokenLayer] INFO - Assigned automatic Token for: 127.0.0.1:62024#--
+2015-10-03 20:37:00 [layers.TokenLayer] INFO - Requesting response for /5/0/4: 127.0.0.1:62024#--
+2015-10-03 20:37:00 [layers.MatchingLayer] INFO - Dropping unexpected response: 127.0.0.1:62024#65 6D 70 74 79
+2015-10-03 20:38:13 [coap.TokenManager] INFO - Token value: 233
+2015-10-03 20:38:13 [layers.TokenLayer] INFO - Assigned automatic Token for: 127.0.0.1:62024#E9
+2015-10-03 20:38:13 [layers.TokenLayer] INFO - Requesting response for /5/0/4: 127.0.0.1:62024#E9
+2015-10-03 20:38:13 [coap.TokenManager] WARNING - Token to release is not acquired: E9
+
+2015-10-03 20:38:13 [layers.TokenLayer] INFO - Incoming response from /5/0/4: 127.0.0.1:62024#E9 // RTT: 39.817431ms
+2015-10-03 20:38:40 [coap.TokenManager] INFO - Token value: 234
+2015-10-03 20:38:40 [layers.TokenLayer] INFO - Assigned automatic Token for: 127.0.0.1:62024#EA
+2015-10-03 20:38:40 [layers.TokenLayer] INFO - Requesting response for /5/0/2: 127.0.0.1:62024#EA
+2015-10-03 20:38:40 [layers.TokenLayer] WARNING - Request/Response exchange timed out: 127.0.0.1:62024#--
+2015-10-03 20:38:40 [coap.TokenManager] WARNING - Token to release is not acquired: EA
+
+2015-10-03 20:38:40 [layers.TokenLayer] INFO - Incoming response from /5/0/2: 127.0.0.1:62024#EA // RTT: 42.990256ms
+2015-10-03 20:39:43 [layers.TokenLayer] INFO - Assigned automatic Token for: 127.0.0.1:62024#--
+2015-10-03 20:39:43 [layers.TokenLayer] INFO - Requesting response for /6/0/0: 127.0.0.1:62024#--
+2015-10-03 20:39:43 [layers.MatchingLayer] INFO - Dropping unexpected response: 127.0.0.1:62024#65 6D 70 74 79
+2015-10-03 20:41:23 [layers.TokenLayer] WARNING - Request/Response exchange timed out: 127.0.0.1:62024#--
+2015-10-03 21:16:09 [layers.MatchingLayer] INFO - Remote endpoint failed to echo token: 127.0.0.1:54759|35593|CON
+2015-10-03 21:16:09 [layers.TokenLayer] INFO - Rejecting message: 127.0.0.1:54759|35593|RST
+2015-10-03 21:16:21 [util.Log] INFO - ==[ START-UP ]========================================================
+2015-10-03 21:16:21 [layers.CoapStack] INFO - CoapStack started
+2015-10-03 21:17:40 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:54759#--
+2015-10-03 21:17:42 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:54759#--
+2015-10-03 21:17:45 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:54759#--
+2015-10-03 21:17:45 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:54759#--
+2015-10-03 21:22:32 [layers.TokenLayer] INFO - Assigned automatic Token for: 127.0.0.1:54759#--
+2015-10-03 21:22:32 [layers.TokenLayer] INFO - Requesting response for /0/0/0: 127.0.0.1:54759#--
+2015-10-03 21:22:32 [layers.MatchingLayer] INFO - Dropping unexpected response: 127.0.0.1:54759#65 6D 70 74 79
+2015-10-03 21:24:12 [layers.TokenLayer] WARNING - Request/Response exchange timed out: 127.0.0.1:54759#--
+2015-10-03 21:27:16 [layers.TokenLayer] INFO - Assigned automatic Token for: 127.0.0.1:54759#--
+2015-10-03 21:27:16 [layers.TokenLayer] INFO - Requesting response for /0/0/0: 127.0.0.1:54759#--
+2015-10-03 21:27:16 [layers.MatchingLayer] INFO - Dropping unexpected response: 127.0.0.1:54759#65 6D 70 74 79
+2015-10-03 21:27:57 [coap.TokenManager] INFO - Token value: 118
+2015-10-03 21:27:57 [layers.TokenLayer] INFO - Assigned automatic Token for: 127.0.0.1:54759#76
+2015-10-03 21:27:57 [layers.TokenLayer] INFO - Requesting response for /0/0/0: 127.0.0.1:54759#76
+2015-10-03 21:27:57 [coap.TokenManager] WARNING - Token to release is not acquired: 76
+
+2015-10-03 21:27:57 [layers.TokenLayer] INFO - Incoming response from /0/0/0: 127.0.0.1:54759#76 // RTT: 62.713647ms
+2015-10-03 21:28:56 [layers.TokenLayer] WARNING - Request/Response exchange timed out: 127.0.0.1:54759#--
+2015-10-03 21:29:23 [layers.TokenLayer] INFO - Assigned automatic Token for: 127.0.0.1:54759#--
+2015-10-03 21:29:23 [layers.TokenLayer] INFO - Requesting response for /0/0/0: 127.0.0.1:54759#--
+2015-10-03 21:29:23 [layers.MatchingLayer] INFO - Dropping unexpected response: 127.0.0.1:54759#65 6D 70 74 79
+2015-10-03 21:29:44 [coap.TokenManager] INFO - Token value: 119
+2015-10-03 21:29:44 [layers.TokenLayer] INFO - Assigned automatic Token for: 127.0.0.1:54759#77
+2015-10-03 21:29:44 [layers.TokenLayer] INFO - Requesting response for /0/0/0: 127.0.0.1:54759#77
+2015-10-03 21:29:44 [coap.TokenManager] WARNING - Token to release is not acquired: 77
+
+2015-10-03 21:29:44 [layers.TokenLayer] INFO - Incoming response from /0/0/0: 127.0.0.1:54759#77 // RTT: 71.911606ms
+2015-10-03 21:30:44 [coap.TokenManager] INFO - Token value: 120
+2015-10-03 21:30:44 [layers.TokenLayer] INFO - Assigned automatic Token for: 127.0.0.1:54759#78
+2015-10-03 21:30:44 [layers.TokenLayer] INFO - Requesting response for /0/0/0: 127.0.0.1:54759#78
+2015-10-03 21:30:44 [coap.TokenManager] WARNING - Token to release is not acquired: 78
+
+2015-10-03 21:30:44 [layers.TokenLayer] INFO - Incoming response from /0/0/0: 127.0.0.1:54759#78 // RTT: 47.057932ms
+2015-10-03 21:30:55 [coap.TokenManager] INFO - Token value: 121
+2015-10-03 21:30:55 [layers.TokenLayer] INFO - Assigned automatic Token for: 127.0.0.1:54759#79
+2015-10-03 21:30:55 [layers.TokenLayer] INFO - Requesting response for /0/0/0: 127.0.0.1:54759#79
+2015-10-03 21:30:55 [coap.TokenManager] WARNING - Token to release is not acquired: 79
+
+2015-10-03 21:30:55 [layers.TokenLayer] INFO - Incoming response from /0/0/0: 127.0.0.1:54759#79 // RTT: 41.897649ms
+2015-10-03 21:31:03 [layers.TokenLayer] WARNING - Request/Response exchange timed out: 127.0.0.1:54759#--
+2015-10-03 21:36:41 [layers.TokenLayer] INFO - Assigned automatic Token for: 127.0.0.1:54759#--
+2015-10-03 21:36:41 [layers.TokenLayer] INFO - Requesting response for /4/0/4: 127.0.0.1:54759#--
+2015-10-03 21:36:41 [layers.MatchingLayer] INFO - Dropping unexpected response: 127.0.0.1:54759#65 6D 70 74 79
+2015-10-03 21:38:02 [coap.TokenManager] INFO - Token value: 122
+2015-10-03 21:38:02 [layers.TokenLayer] INFO - Assigned automatic Token for: 127.0.0.1:54759#7A
+2015-10-03 21:38:02 [layers.TokenLayer] INFO - Requesting response for /3/0/4: 127.0.0.1:54759#7A
+2015-10-03 21:38:02 [coap.TokenManager] WARNING - Token to release is not acquired: 7A
+
+2015-10-03 21:38:02 [layers.TokenLayer] INFO - Incoming response from /3/0/4: 127.0.0.1:54759#7A // RTT: 22.799508ms
+2015-10-03 21:38:03 [layers.MatchingLayer] INFO - Remote endpoint failed to echo token: 127.0.0.1:53146|1071|CON
+2015-10-03 21:38:03 [layers.TokenLayer] INFO - Rejecting message: 127.0.0.1:53146|1071|RST
+2015-10-03 21:38:21 [layers.TokenLayer] WARNING - Request/Response exchange timed out: 127.0.0.1:54759#--
+2015-10-03 21:38:27 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:53146#--
+2015-10-03 21:38:27 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:53146#--
+2015-10-03 21:39:22 [layers.TokenLayer] INFO - Assigned automatic Token for: 127.0.0.1:53146#--
+2015-10-03 21:39:22 [layers.TokenLayer] INFO - Requesting response for /6/0: 127.0.0.1:53146#--
+2015-10-03 21:39:22 [layers.MatchingLayer] INFO - Dropping unexpected response: 127.0.0.1:53146#65 6D 70 74 79
+2015-10-03 21:41:02 [layers.TokenLayer] WARNING - Request/Response exchange timed out: 127.0.0.1:53146#--
+2015-10-03 21:45:43 [layers.TokenLayer] INFO - Assigned automatic Token for: 127.0.0.1:53146#--
+2015-10-03 21:45:43 [layers.TokenLayer] INFO - Requesting response for /6/0: 127.0.0.1:53146#--
+2015-10-03 21:45:43 [layers.MatchingLayer] INFO - Dropping unexpected response: 127.0.0.1:53146#65 6D 70 74 79
+2015-10-03 21:46:37 [coap.TokenManager] INFO - Token value: 123
+2015-10-03 21:46:37 [layers.TokenLayer] INFO - Assigned automatic Token for: 127.0.0.1:53146#7B
+2015-10-03 21:46:37 [layers.TokenLayer] INFO - Requesting response for /6/0: 127.0.0.1:53146#7B
+2015-10-03 21:46:37 [coap.TokenManager] WARNING - Token to release is not acquired: 7B
+
+2015-10-03 21:46:37 [layers.TokenLayer] INFO - Incoming response from /6/0: 127.0.0.1:53146#7B // RTT: 41.354502ms
+2015-10-03 21:47:23 [layers.TokenLayer] WARNING - Request/Response exchange timed out: 127.0.0.1:53146#--
+2015-10-03 21:48:18 [layers.TokenLayer] INFO - Assigned automatic Token for: 127.0.0.1:53146#--
+2015-10-03 21:48:18 [layers.TokenLayer] INFO - Requesting response for /6/0: 127.0.0.1:53146#--
+2015-10-03 21:48:18 [layers.MatchingLayer] INFO - Dropping unexpected response: 127.0.0.1:53146#65 6D 70 74 79
+2015-10-03 21:48:27 [coap.TokenManager] INFO - Token value: 124
+2015-10-03 21:48:27 [layers.TokenLayer] INFO - Assigned automatic Token for: 127.0.0.1:53146#7C
+2015-10-03 21:48:27 [layers.TokenLayer] INFO - Requesting response for /6/0: 127.0.0.1:53146#7C
+2015-10-03 21:48:27 [coap.TokenManager] WARNING - Token to release is not acquired: 7C
+
+2015-10-03 21:48:27 [layers.TokenLayer] INFO - Incoming response from /6/0: 127.0.0.1:53146#7C // RTT: 34.115579ms
+2015-10-03 21:49:58 [layers.TokenLayer] WARNING - Request/Response exchange timed out: 127.0.0.1:53146#--
+2015-10-03 21:53:50 [util.Log] INFO - ==[ START-UP ]========================================================
+2015-10-03 21:53:50 [layers.CoapStack] INFO - CoapStack started
+2015-10-03 21:54:12 [layers.MatchingLayer] INFO - Remote endpoint failed to echo token: 127.0.0.1:53349|43322|CON
+2015-10-03 21:54:12 [layers.TokenLayer] INFO - Rejecting message: 127.0.0.1:53349|43322|RST
+2015-10-03 21:54:22 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:53349#--
+2015-10-03 21:54:22 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:53349#--
+2015-10-03 21:54:45 [layers.TokenLayer] INFO - Assigned automatic Token for: 127.0.0.1:53349#--
+2015-10-03 21:54:45 [layers.TokenLayer] INFO - Requesting response for /0/0/0: 127.0.0.1:53349#--
+2015-10-03 21:54:45 [layers.MatchingLayer] INFO - Dropping unexpected response: 127.0.0.1:53349#65 6D 70 74 79
+2015-10-03 21:54:54 [coap.TokenManager] INFO - Token value: 87
+2015-10-03 21:54:54 [layers.TokenLayer] INFO - Assigned automatic Token for: 127.0.0.1:53349#57
+2015-10-03 21:54:54 [layers.TokenLayer] INFO - Requesting response for /0/0/0: 127.0.0.1:53349#57
+2015-10-03 21:54:54 [coap.TokenManager] WARNING - Token to release is not acquired: 57
+
+2015-10-03 21:54:54 [layers.TokenLayer] INFO - Incoming response from /0/0/0: 127.0.0.1:53349#57 // RTT: 28.834115ms
+2015-10-03 21:55:32 [coap.TokenManager] INFO - Token value: 88
+2015-10-03 21:55:32 [layers.TokenLayer] INFO - Assigned automatic Token for: 127.0.0.1:53349#58
+2015-10-03 21:55:32 [layers.TokenLayer] INFO - Requesting response for /6/0: 127.0.0.1:53349#58
+2015-10-03 21:55:32 [coap.TokenManager] WARNING - Token to release is not acquired: 58
+
+2015-10-03 21:55:32 [layers.TokenLayer] INFO - Incoming response from /6/0: 127.0.0.1:53349#58 // RTT: 42.864733ms
+2015-10-03 21:56:25 [layers.TokenLayer] WARNING - Request/Response exchange timed out: 127.0.0.1:53349#--
+2015-10-03 21:57:22 [layers.TokenLayer] INFO - Assigned automatic Token for: 127.0.0.1:53349#--
+2015-10-03 21:57:22 [layers.TokenLayer] INFO - Requesting response for /2/0/2: 127.0.0.1:53349#--
+2015-10-03 21:57:22 [layers.MatchingLayer] INFO - Dropping unexpected response: 127.0.0.1:53349#65 6D 70 74 79
+2015-10-03 21:58:10 [coap.TokenManager] INFO - Token value: 89
+2015-10-03 21:58:10 [layers.TokenLayer] INFO - Assigned automatic Token for: 127.0.0.1:53349#59
+2015-10-03 21:58:10 [layers.TokenLayer] INFO - Requesting response for /2/0/2/101: 127.0.0.1:53349#59
+2015-10-03 21:58:10 [coap.TokenManager] WARNING - Token to release is not acquired: 59
+
+2015-10-03 21:58:10 [layers.TokenLayer] INFO - Incoming response from /2/0/2/101: 127.0.0.1:53349#59 // RTT: 40.998458ms
+2015-10-03 21:59:02 [layers.TokenLayer] WARNING - Request/Response exchange timed out: 127.0.0.1:53349#--
+2015-10-03 21:59:56 [util.Log] INFO - ==[ START-UP ]========================================================
+2015-10-03 21:59:56 [layers.CoapStack] INFO - CoapStack started
+2015-10-03 22:01:09 [layers.MatchingLayer] INFO - Remote endpoint failed to echo token: 127.0.0.1:56367|38597|CON
+2015-10-03 22:01:09 [layers.TokenLayer] INFO - Rejecting message: 127.0.0.1:56367|38597|RST
+2015-10-03 22:01:51 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:56367#--
+2015-10-03 22:01:51 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:56367#--
+2015-10-03 22:02:16 [layers.TokenLayer] INFO - Assigned automatic Token for: 127.0.0.1:56367#--
+2015-10-03 22:02:16 [layers.TokenLayer] INFO - Requesting response for /6/0: 127.0.0.1:56367#--
+2015-10-03 22:02:16 [layers.MatchingLayer] INFO - Dropping unexpected response: 127.0.0.1:56367#65 6D 70 74 79
+2015-10-03 22:03:56 [layers.TokenLayer] WARNING - Request/Response exchange timed out: 127.0.0.1:56367#--
+2015-10-03 22:07:00 [util.Log] INFO - ==[ START-UP ]========================================================
+2015-10-03 22:07:00 [layers.CoapStack] INFO - CoapStack started
+2015-10-03 22:08:05 [util.Log] INFO - ==[ START-UP ]========================================================
+2015-10-03 22:08:05 [layers.CoapStack] INFO - CoapStack started
+2015-10-03 22:08:42 [layers.MatchingLayer] INFO - Remote endpoint failed to echo token: 127.0.0.1:65271|23355|CON
+2015-10-03 22:08:42 [layers.TokenLayer] INFO - Rejecting message: 127.0.0.1:65271|23355|RST
+2015-10-03 22:08:54 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:65271#--
+2015-10-03 22:08:56 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:65271#--
+2015-10-03 22:09:00 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:65271#--
+2015-10-03 22:09:01 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:65271#--
+2015-10-03 22:09:02 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:65271#--
+2015-10-03 22:09:02 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:65271#--
+2015-10-03 22:10:02 [layers.TokenLayer] INFO - Assigned automatic Token for: 127.0.0.1:65271#--
+2015-10-03 22:10:02 [layers.TokenLayer] INFO - Requesting response for /6/0: 127.0.0.1:65271#--
+2015-10-03 22:10:02 [layers.MatchingLayer] INFO - Dropping unexpected response: 127.0.0.1:65271#65 6D 70 74 79
+2015-10-03 22:10:36 [coap.TokenManager] INFO - Token value: 140
+2015-10-03 22:10:36 [layers.TokenLayer] INFO - Assigned automatic Token for: 127.0.0.1:65271#8C
+2015-10-03 22:10:36 [layers.TokenLayer] INFO - Requesting response for /6/0: 127.0.0.1:65271#8C
+2015-10-03 22:10:36 [coap.TokenManager] WARNING - Token to release is not acquired: 8C
+
+2015-10-03 22:10:36 [layers.TokenLayer] INFO - Incoming response from /6/0: 127.0.0.1:65271#8C // RTT: 30.892228ms
+2015-10-03 22:22:25 [util.Log] INFO - ==[ START-UP ]========================================================
+2015-10-03 22:22:25 [layers.CoapStack] INFO - CoapStack started
+2015-10-03 22:23:31 [layers.MatchingLayer] INFO - Remote endpoint failed to echo token: 127.0.0.1:64432|2164|CON
+2015-10-03 22:23:31 [layers.TokenLayer] INFO - Rejecting message: 127.0.0.1:64432|2164|RST
+2015-10-03 22:23:42 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:64432#--
+2015-10-03 22:23:42 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:64432#--
+2015-10-03 22:23:58 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:64432#--
+2015-10-03 22:23:58 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:64432#--
+2015-10-03 22:24:26 [layers.TokenLayer] INFO - Assigned automatic Token for: 127.0.0.1:64432#--
+2015-10-03 22:24:26 [layers.TokenLayer] INFO - Requesting response for /2/0/3: 127.0.0.1:64432#--
+2015-10-03 22:24:26 [layers.MatchingLayer] INFO - Dropping unexpected response: 127.0.0.1:64432#65 6D 70 74 79
+2015-10-03 22:26:06 [layers.TokenLayer] WARNING - Request/Response exchange timed out: 127.0.0.1:64432#--
+2015-10-03 22:26:24 [coap.TokenManager] INFO - Token value: 168
+2015-10-03 22:26:24 [layers.TokenLayer] INFO - Requesting response for /2/0/3: 127.0.0.1:64432#A8
+2015-10-03 22:26:24 [coap.ObservingManager] INFO - Adding Observe subscription for /2/0/3: 127.0.0.1:64432#A8
+2015-10-03 22:26:24 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:64432#A8 // RTT: 43.478141ms
+2015-10-03 22:27:24 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:64432|2167|ACK
+2015-10-03 22:27:24 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:64432#A8 // RTT: 60048.996048ms
+2015-10-03 22:27:44 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:64432|2168|ACK
+2015-10-03 22:27:44 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:64432#A8 // RTT: 80050.529962ms
+2015-10-03 22:28:44 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:64432|2169|ACK
+2015-10-03 22:28:44 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:64432#A8 // RTT: 140051.816382ms
+2015-10-03 22:29:44 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:64432|2170|ACK
+2015-10-03 22:29:44 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:64432#A8 // RTT: 200062.000767ms
+2015-10-03 22:30:44 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:64432|2171|ACK
+2015-10-03 22:30:44 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:64432#A8 // RTT: 260058.872545ms
+2015-10-03 22:31:44 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:64432|2172|ACK
+2015-10-03 22:31:44 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:64432#A8 // RTT: 320059.897655ms
+2015-10-03 22:31:44 [layers.TokenLayer] INFO - Requesting response for /: 127.0.0.1:64432#A8
+2015-10-03 22:31:44 [coap.TokenManager] WARNING - Token to release is not acquired: A8
+
+2015-10-03 22:31:44 [layers.TokenLayer] INFO - Rejecting message: 127.0.0.1:64432|2172|RST
+2015-10-03 22:31:44 [layers.TokenLayer] INFO - Rejecting message: 127.0.0.1:64432|65371|RST
+2015-10-03 22:32:15 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:64432|2173|ACK
+2015-10-03 22:32:15 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:64432#A8 // RTT: 350439.636960ms
+2015-10-03 22:32:35 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:64432|2174|ACK
+2015-10-03 22:32:35 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:64432#A8 // RTT: 370449.251358ms
+2015-10-03 22:33:35 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:64432|2175|ACK
+2015-10-03 22:33:35 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:64432#A8 // RTT: 430443.661216ms
+2015-10-03 22:34:35 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:64432|2176|ACK
+2015-10-03 22:34:35 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:64432#A8 // RTT: 490444.995397ms
+2015-10-03 22:35:35 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:64432|2177|ACK
+2015-10-03 22:35:35 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:64432#A8 // RTT: 550449.051626ms
+2015-10-03 22:36:35 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:64432|2178|ACK
+2015-10-03 22:36:35 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:64432#A8 // RTT: 610452.343660ms
+2015-10-03 22:37:35 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:64432|2179|ACK
+2015-10-03 22:37:35 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:64432#A8 // RTT: 670466.896109ms
+2015-10-03 22:38:16 [util.Log] INFO - ==[ START-UP ]========================================================
+2015-10-03 22:38:16 [layers.CoapStack] INFO - CoapStack started
+2015-10-03 22:38:35 [layers.MatchingLayer] INFO - Rejecting unexpected response: 127.0.0.1:64432#A8
+2015-10-03 22:38:35 [layers.TokenLayer] INFO - Rejecting message: 127.0.0.1:64432|2180|RST
+2015-10-03 22:39:58 [layers.MatchingLayer] INFO - Remote endpoint failed to echo token: 127.0.0.1:49571|43934|CON
+2015-10-03 22:39:58 [layers.TokenLayer] INFO - Rejecting message: 127.0.0.1:49571|43934|RST
+2015-10-03 22:40:10 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:49571#--
+2015-10-03 22:40:10 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:49571#--
+2015-10-03 22:40:30 [coap.TokenManager] INFO - Token value: 68
+2015-10-03 22:40:30 [layers.TokenLayer] INFO - Requesting response for /2/0/3: 127.0.0.1:49571#44
+2015-10-03 22:40:30 [coap.ObservingManager] INFO - Adding Observe subscription for /2/0/3: 127.0.0.1:49571#44
+2015-10-03 22:40:30 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:49571#44 // RTT: 20.334430ms
+2015-10-04 15:55:08 [util.Log] INFO - ==[ START-UP ]========================================================
+2015-10-04 15:55:08 [coap.CommunicatorFactory] SEVERE - Cannot create the communicator, exiting
+2015-10-04 15:56:08 [util.Log] INFO - ==[ START-UP ]========================================================
+2015-10-04 15:56:08 [layers.CoapStack] INFO - CoapStack started
+2015-10-04 15:56:34 [layers.MatchingLayer] INFO - Remote endpoint failed to echo token: 127.0.0.1:55855|18344|CON
+2015-10-04 15:56:34 [layers.TokenLayer] INFO - Rejecting message: 127.0.0.1:55855|18344|RST
+2015-10-04 15:56:43 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:55855#--
+2015-10-04 15:56:45 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:55855#--
+2015-10-04 15:56:49 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:55855#--
+2015-10-04 15:56:51 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:55855#--
+2015-10-04 15:56:51 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:55855#--
+2015-10-04 15:56:52 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:55855#--
+2015-10-04 15:57:48 [coap.TokenManager] INFO - Token value: 120
+2015-10-04 15:57:48 [layers.TokenLayer] INFO - Requesting response for /2/0/3: 127.0.0.1:55855#78
+2015-10-04 15:57:48 [coap.ObservingManager] INFO - Adding Observe subscription for /2/0/3: 127.0.0.1:55855#78
+2015-10-04 15:57:48 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:55855#78 // RTT: 19.876939ms
+2015-10-04 15:58:48 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:55855|18346|ACK
+2015-10-04 15:58:48 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:55855#78 // RTT: 60031.772077ms
+2015-10-04 15:59:48 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:55855|18347|ACK
+2015-10-04 15:59:48 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:55855#78 // RTT: 120033.005998ms
+2015-10-04 16:00:48 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:55855|18348|ACK
+2015-10-04 16:00:48 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:55855#78 // RTT: 180035.465550ms
+2015-10-04 16:01:48 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:55855|18349|ACK
+2015-10-04 16:01:48 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:55855#78 // RTT: 240041.100692ms
+2015-10-04 16:02:48 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:55855|18350|ACK
+2015-10-04 16:02:48 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:55855#78 // RTT: 300041.740152ms
+2015-10-04 16:03:48 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:55855|18351|ACK
+2015-10-04 16:03:48 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:55855#78 // RTT: 360044.770876ms
+2015-10-04 16:04:48 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:55855|18352|ACK
+2015-10-04 16:04:48 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:55855#78 // RTT: 420047.075694ms
+2015-10-04 16:05:48 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:55855|18353|ACK
+2015-10-04 16:05:48 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:55855#78 // RTT: 480064.533739ms
+2015-10-04 16:06:48 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:55855|18354|ACK
+2015-10-04 16:06:48 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:55855#78 // RTT: 540053.882784ms
+2015-10-04 16:07:48 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:55855|18355|ACK
+2015-10-04 16:07:48 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:55855#78 // RTT: 600047.023195ms
+2015-10-04 16:08:48 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:55855|18356|ACK
+2015-10-04 16:08:48 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:55855#78 // RTT: 660054.555401ms
+2015-10-04 16:09:48 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:55855|18357|ACK
+2015-10-04 16:09:48 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:55855#78 // RTT: 720057.863619ms
+2015-10-04 16:10:48 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:55855|18358|ACK
+2015-10-04 16:10:48 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:55855#78 // RTT: 780062.174842ms
+2015-10-04 16:11:48 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:55855|18359|ACK
+2015-10-04 16:11:48 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:55855#78 // RTT: 840062.907063ms
+2015-10-04 16:12:48 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:55855|18360|ACK
+2015-10-04 16:12:48 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:55855#78 // RTT: 900065.674898ms
+2015-10-04 16:13:48 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:55855|18361|ACK
+2015-10-04 16:13:48 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:55855#78 // RTT: 960068.537468ms
+2015-10-04 16:14:48 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:55855|18362|ACK
+2015-10-04 16:14:48 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:55855#78 // RTT: 1020063.289555ms
+2015-10-04 16:15:48 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:55855|18363|ACK
+2015-10-04 16:15:48 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:55855#78 // RTT: 1080072.217125ms
+2015-10-04 16:16:48 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:55855|18364|ACK
+2015-10-04 16:16:48 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:55855#78 // RTT: 1140065.841079ms
+2015-10-04 16:17:48 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:55855|18365|ACK
+2015-10-04 16:17:48 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:55855#78 // RTT: 1200075.763365ms
+2015-10-04 16:18:48 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:55855|18366|ACK
+2015-10-04 16:18:48 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:55855#78 // RTT: 1260078.643303ms
+2015-10-04 16:19:48 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:55855|18367|ACK
+2015-10-04 16:19:48 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:55855#78 // RTT: 1320071.808187ms
+2015-10-04 16:20:48 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:55855|18368|ACK
+2015-10-04 16:20:48 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:55855#78 // RTT: 1380083.856480ms
+2015-10-04 16:21:48 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:55855|18369|ACK
+2015-10-04 16:21:48 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:55855#78 // RTT: 1440086.851283ms
+2015-10-04 16:22:48 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:55855|18370|ACK
+2015-10-04 16:22:48 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:55855#78 // RTT: 1500089.190838ms
+2015-10-04 16:23:48 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:55855|18371|ACK
+2015-10-04 16:23:48 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:55855#78 // RTT: 1560090.390023ms
+2015-10-04 16:24:48 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:55855|18372|ACK
+2015-10-04 16:24:48 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:55855#78 // RTT: 1620093.071807ms
+2015-10-04 16:25:48 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:55855|18373|ACK
+2015-10-04 16:25:48 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:55855#78 // RTT: 1680095.943061ms
+2015-10-04 16:26:48 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:55855|18374|ACK
+2015-10-04 16:26:48 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:55855#78 // RTT: 1740097.535395ms
+2015-10-04 16:27:48 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:55855|18375|ACK
+2015-10-04 16:27:48 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:55855#78 // RTT: 1800091.081587ms
+2015-10-04 16:28:48 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:55855|18376|ACK
+2015-10-04 16:28:48 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:55855#78 // RTT: 1860104.031439ms
+2015-10-04 16:29:48 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:55855|18377|ACK
+2015-10-04 16:29:48 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:55855#78 // RTT: 1920107.354657ms
+2015-10-04 16:30:48 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:55855|18378|ACK
+2015-10-04 16:30:48 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:55855#78 // RTT: 1980111.748772ms
+2015-10-04 16:31:48 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:55855|18379|ACK
+2015-10-04 16:31:48 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:55855#78 // RTT: 2040111.636670ms
+2015-10-04 16:32:48 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:55855|18380|ACK
+2015-10-04 16:32:48 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:55855#78 // RTT: 2100119.407291ms
+2015-10-04 16:33:48 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:55855|18381|ACK
+2015-10-04 16:33:48 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:55855#78 // RTT: 2160117.799168ms
+2015-10-04 16:34:48 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:55855|18382|ACK
+2015-10-04 16:34:48 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:55855#78 // RTT: 2220123.160763ms
+2015-10-04 16:35:48 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:55855|18383|ACK
+2015-10-04 16:35:48 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:55855#78 // RTT: 2280120.290299ms
+2015-10-04 16:36:48 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:55855|18384|ACK
+2015-10-04 16:36:48 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:55855#78 // RTT: 2340122.786561ms
+2015-10-04 16:37:48 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:55855|18385|ACK
+2015-10-04 16:37:48 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:55855#78 // RTT: 2400129.243132ms
+2015-10-04 16:38:48 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:55855|18386|ACK
+2015-10-04 16:38:48 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:55855#78 // RTT: 2460123.524703ms
+2015-10-04 16:39:48 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:55855|18387|ACK
+2015-10-04 16:39:48 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:55855#78 // RTT: 2520130.594682ms
+2015-10-04 16:40:48 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:55855|18388|ACK
+2015-10-04 16:40:48 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:55855#78 // RTT: 2580134.412889ms
+2015-10-04 16:41:48 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:55855|18389|ACK
+2015-10-04 16:41:48 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:55855#78 // RTT: 2640135.589179ms
+2015-10-04 16:42:48 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:55855|18390|ACK
+2015-10-04 16:42:48 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:55855#78 // RTT: 2700138.259911ms
+2015-10-04 16:43:48 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:55855|18391|ACK
+2015-10-04 16:43:48 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:55855#78 // RTT: 2760140.886828ms
+2015-10-04 16:44:48 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:55855|18392|ACK
+2015-10-04 16:44:48 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:55855#78 // RTT: 2820143.822028ms
+2015-10-04 16:45:13 [util.Log] INFO - ==[ START-UP ]========================================================
+2015-10-04 16:45:13 [layers.CoapStack] INFO - CoapStack started
+2015-10-04 16:45:40 [layers.MatchingLayer] INFO - Remote endpoint failed to echo token: 127.0.0.1:60084|57958|CON
+2015-10-04 16:45:40 [layers.TokenLayer] INFO - Rejecting message: 127.0.0.1:60084|57958|RST
+2015-10-04 16:45:50 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:60084#--
+2015-10-04 16:45:56 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:60084#--
+2015-10-04 16:45:56 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:60084#--
+2015-10-04 16:45:56 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:60084#--
+2015-10-04 16:46:35 [coap.TokenManager] INFO - Token value: 179
+2015-10-04 16:46:35 [layers.TokenLayer] INFO - Requesting response for /2/0/3: 127.0.0.1:60084#B3
+2015-10-04 16:46:35 [coap.ObservingManager] INFO - Adding Observe subscription for /2/0/3: 127.0.0.1:60084#B3
+2015-10-04 16:46:35 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:60084#B3 // RTT: 24.286844ms
+2015-10-04 16:46:35 [layers.UDPLayer] SEVERE - Crash: For input string: "B3"
+                    Stacktrace for java.lang.NumberFormatException:
+                    java.lang.NumberFormatException.forInputString(null:-1)
+                    java.lang.Integer.parseInt(null:-1)
+                    java.lang.Integer.parseInt(null:-1)
+                    com.hackathon.acs.lwm2mconnectorinbound.reporting.InformationReportingHandler$1.handleResponse(InformationReportingHandler.java:56)
+                    ch.ethz.inf.vs.californium.coap.CommunicatorFactory$CommonCommunicator.doReceiveMessage(CommunicatorFactory.java:285)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.deliverMessage(AbstractLayer.java:112)
+                    ch.ethz.inf.vs.californium.layers.UpperLayer.doReceiveMessage(UpperLayer.java:83)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.deliverMessage(AbstractLayer.java:112)
+                    ch.ethz.inf.vs.californium.layers.TokenLayer.doReceiveMessage(TokenLayer.java:166)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.deliverMessage(AbstractLayer.java:112)
+                    ch.ethz.inf.vs.californium.layers.TransferLayer.doReceiveMessage(TransferLayer.java:311)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.deliverMessage(AbstractLayer.java:112)
+                    ch.ethz.inf.vs.californium.layers.MatchingLayer.doReceiveMessage(MatchingLayer.java:145)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.deliverMessage(AbstractLayer.java:112)
+                    ch.ethz.inf.vs.californium.layers.TransactionLayer.doReceiveMessage(TransactionLayer.java:365)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.deliverMessage(AbstractLayer.java:112)
+                    ch.ethz.inf.vs.californium.layers.UDPLayer.doReceiveMessage(UDPLayer.java:234)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.UDPLayer.datagramReceived(UDPLayer.java:186)
+                    ch.ethz.inf.vs.californium.layers.UDPLayer.access$200(UDPLayer.java:57)
+                    ch.ethz.inf.vs.californium.layers.UDPLayer$ReceiverThread.run(UDPLayer.java:292)
+
+2015-10-04 16:47:22 [coap.TokenManager] INFO - Token value: 180
+2015-10-04 16:47:33 [layers.TokenLayer] INFO - Requesting response for /2/0/3: 127.0.0.1:60084#B4
+2015-10-04 16:47:33 [coap.ObservingManager] INFO - Adding Observe subscription for /2/0/3: 127.0.0.1:60084#B4
+2015-10-04 16:47:33 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:60084#B4 // RTT: 50.573382ms
+2015-10-04 16:47:52 [layers.UDPLayer] SEVERE - Crash: For input string: "B4"
+                    Stacktrace for java.lang.NumberFormatException:
+                    java.lang.NumberFormatException.forInputString(null:-1)
+                    java.lang.Integer.parseInt(null:-1)
+                    java.lang.Integer.parseInt(null:-1)
+                    com.hackathon.acs.lwm2mconnectorinbound.reporting.InformationReportingHandler$1.handleResponse(InformationReportingHandler.java:56)
+                    ch.ethz.inf.vs.californium.coap.CommunicatorFactory$CommonCommunicator.doReceiveMessage(CommunicatorFactory.java:285)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.deliverMessage(AbstractLayer.java:112)
+                    ch.ethz.inf.vs.californium.layers.UpperLayer.doReceiveMessage(UpperLayer.java:83)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.deliverMessage(AbstractLayer.java:112)
+                    ch.ethz.inf.vs.californium.layers.TokenLayer.doReceiveMessage(TokenLayer.java:166)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.deliverMessage(AbstractLayer.java:112)
+                    ch.ethz.inf.vs.californium.layers.TransferLayer.doReceiveMessage(TransferLayer.java:311)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.deliverMessage(AbstractLayer.java:112)
+                    ch.ethz.inf.vs.californium.layers.MatchingLayer.doReceiveMessage(MatchingLayer.java:145)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.deliverMessage(AbstractLayer.java:112)
+                    ch.ethz.inf.vs.californium.layers.TransactionLayer.doReceiveMessage(TransactionLayer.java:365)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.deliverMessage(AbstractLayer.java:112)
+                    ch.ethz.inf.vs.californium.layers.UDPLayer.doReceiveMessage(UDPLayer.java:234)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.UDPLayer.datagramReceived(UDPLayer.java:186)
+                    ch.ethz.inf.vs.californium.layers.UDPLayer.access$200(UDPLayer.java:57)
+                    ch.ethz.inf.vs.californium.layers.UDPLayer$ReceiverThread.run(UDPLayer.java:292)
+
+2015-10-04 16:47:52 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:60084|57960|ACK
+2015-10-04 16:47:52 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:60084#B3 // RTT: 76474.475287ms
+2015-10-04 16:48:01 [layers.UDPLayer] SEVERE - Crash: For input string: "B3"
+                    Stacktrace for java.lang.NumberFormatException:
+                    java.lang.NumberFormatException.forInputString(null:-1)
+                    java.lang.Integer.parseInt(null:-1)
+                    java.lang.Integer.parseInt(null:-1)
+                    com.hackathon.acs.lwm2mconnectorinbound.reporting.InformationReportingHandler$1.handleResponse(InformationReportingHandler.java:56)
+                    ch.ethz.inf.vs.californium.coap.CommunicatorFactory$CommonCommunicator.doReceiveMessage(CommunicatorFactory.java:285)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.deliverMessage(AbstractLayer.java:112)
+                    ch.ethz.inf.vs.californium.layers.UpperLayer.doReceiveMessage(UpperLayer.java:83)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.deliverMessage(AbstractLayer.java:112)
+                    ch.ethz.inf.vs.californium.layers.TokenLayer.doReceiveMessage(TokenLayer.java:166)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.deliverMessage(AbstractLayer.java:112)
+                    ch.ethz.inf.vs.californium.layers.TransferLayer.doReceiveMessage(TransferLayer.java:311)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.deliverMessage(AbstractLayer.java:112)
+                    ch.ethz.inf.vs.californium.layers.MatchingLayer.doReceiveMessage(MatchingLayer.java:145)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.deliverMessage(AbstractLayer.java:112)
+                    ch.ethz.inf.vs.californium.layers.TransactionLayer.doReceiveMessage(TransactionLayer.java:365)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.deliverMessage(AbstractLayer.java:112)
+                    ch.ethz.inf.vs.californium.layers.UDPLayer.doReceiveMessage(UDPLayer.java:234)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.UDPLayer.datagramReceived(UDPLayer.java:186)
+                    ch.ethz.inf.vs.californium.layers.UDPLayer.access$200(UDPLayer.java:57)
+                    ch.ethz.inf.vs.californium.layers.UDPLayer$ReceiverThread.run(UDPLayer.java:292)
+
+2015-10-04 16:48:01 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:60084|57960|ACK
+2015-10-04 16:48:01 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:60084#B3 // RTT: 85743.162516ms
+2015-10-04 16:48:44 [layers.UDPLayer] SEVERE - Crash: For input string: "B3"
+                    Stacktrace for java.lang.NumberFormatException:
+                    java.lang.NumberFormatException.forInputString(null:-1)
+                    java.lang.Integer.parseInt(null:-1)
+                    java.lang.Integer.parseInt(null:-1)
+                    com.hackathon.acs.lwm2mconnectorinbound.reporting.InformationReportingHandler$1.handleResponse(InformationReportingHandler.java:56)
+                    ch.ethz.inf.vs.californium.coap.CommunicatorFactory$CommonCommunicator.doReceiveMessage(CommunicatorFactory.java:285)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.deliverMessage(AbstractLayer.java:112)
+                    ch.ethz.inf.vs.californium.layers.UpperLayer.doReceiveMessage(UpperLayer.java:83)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.deliverMessage(AbstractLayer.java:112)
+                    ch.ethz.inf.vs.californium.layers.TokenLayer.doReceiveMessage(TokenLayer.java:166)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.deliverMessage(AbstractLayer.java:112)
+                    ch.ethz.inf.vs.californium.layers.TransferLayer.doReceiveMessage(TransferLayer.java:311)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.deliverMessage(AbstractLayer.java:112)
+                    ch.ethz.inf.vs.californium.layers.MatchingLayer.doReceiveMessage(MatchingLayer.java:145)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.deliverMessage(AbstractLayer.java:112)
+                    ch.ethz.inf.vs.californium.layers.TransactionLayer.doReceiveMessage(TransactionLayer.java:365)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.deliverMessage(AbstractLayer.java:112)
+                    ch.ethz.inf.vs.californium.layers.UDPLayer.doReceiveMessage(UDPLayer.java:234)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.UDPLayer.datagramReceived(UDPLayer.java:186)
+                    ch.ethz.inf.vs.californium.layers.UDPLayer.access$200(UDPLayer.java:57)
+                    ch.ethz.inf.vs.californium.layers.UDPLayer$ReceiverThread.run(UDPLayer.java:292)
+
+2015-10-04 16:48:44 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:60084|57960|ACK
+2015-10-04 16:48:44 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:60084#B3 // RTT: 128326.380325ms
+2015-10-04 16:48:45 [layers.UDPLayer] SEVERE - Crash: For input string: "B3"
+                    Stacktrace for java.lang.NumberFormatException:
+                    java.lang.NumberFormatException.forInputString(null:-1)
+                    java.lang.Integer.parseInt(null:-1)
+                    java.lang.Integer.parseInt(null:-1)
+                    com.hackathon.acs.lwm2mconnectorinbound.reporting.InformationReportingHandler$1.handleResponse(InformationReportingHandler.java:56)
+                    ch.ethz.inf.vs.californium.coap.CommunicatorFactory$CommonCommunicator.doReceiveMessage(CommunicatorFactory.java:285)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.deliverMessage(AbstractLayer.java:112)
+                    ch.ethz.inf.vs.californium.layers.UpperLayer.doReceiveMessage(UpperLayer.java:83)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.deliverMessage(AbstractLayer.java:112)
+                    ch.ethz.inf.vs.californium.layers.TokenLayer.doReceiveMessage(TokenLayer.java:166)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.deliverMessage(AbstractLayer.java:112)
+                    ch.ethz.inf.vs.californium.layers.TransferLayer.doReceiveMessage(TransferLayer.java:311)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.deliverMessage(AbstractLayer.java:112)
+                    ch.ethz.inf.vs.californium.layers.MatchingLayer.doReceiveMessage(MatchingLayer.java:145)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.deliverMessage(AbstractLayer.java:112)
+                    ch.ethz.inf.vs.californium.layers.TransactionLayer.doReceiveMessage(TransactionLayer.java:365)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.deliverMessage(AbstractLayer.java:112)
+                    ch.ethz.inf.vs.californium.layers.UDPLayer.doReceiveMessage(UDPLayer.java:234)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.UDPLayer.datagramReceived(UDPLayer.java:186)
+                    ch.ethz.inf.vs.californium.layers.UDPLayer.access$200(UDPLayer.java:57)
+                    ch.ethz.inf.vs.californium.layers.UDPLayer$ReceiverThread.run(UDPLayer.java:292)
+
+2015-10-04 16:48:45 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:60084|57960|ACK
+2015-10-04 16:48:45 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:60084#B3 // RTT: 129783.360069ms
+2015-10-04 17:06:36 [util.Log] INFO - ==[ START-UP ]========================================================
+2015-10-04 17:06:36 [layers.CoapStack] INFO - CoapStack started
+2015-10-04 17:06:50 [layers.MatchingLayer] INFO - Remote endpoint failed to echo token: 127.0.0.1:57195|3122|CON
+2015-10-04 17:06:50 [layers.TokenLayer] INFO - Rejecting message: 127.0.0.1:57195|3122|RST
+2015-10-04 17:06:57 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:57195#--
+2015-10-04 17:07:03 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:57195#--
+2015-10-04 17:07:04 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:57195#--
+2015-10-04 17:07:04 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:57195#--
+2015-10-04 17:07:04 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:57195#--
+2015-10-04 17:07:04 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:57195#--
+2015-10-04 17:08:01 [coap.TokenManager] INFO - Token value: 1
+2015-10-04 17:08:01 [layers.TokenLayer] INFO - Requesting response for /2/0/3: 127.0.0.1:57195#01
+2015-10-04 17:08:01 [coap.ObservingManager] INFO - Adding Observe subscription for /2/0/3: 127.0.0.1:57195#01
+2015-10-04 17:08:01 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:57195#01 // RTT: 34.335049ms
+2015-10-04 17:08:01 [layers.UDPLayer] SEVERE - Crash: null
+                    Stacktrace for java.lang.NullPointerException:
+                    com.hackathon.acs.lwm2mconnectorinbound.reporting.InformationReportingHandler$1.handleResponse(InformationReportingHandler.java:60)
+                    ch.ethz.inf.vs.californium.coap.CommunicatorFactory$CommonCommunicator.doReceiveMessage(CommunicatorFactory.java:285)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.deliverMessage(AbstractLayer.java:112)
+                    ch.ethz.inf.vs.californium.layers.UpperLayer.doReceiveMessage(UpperLayer.java:83)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.deliverMessage(AbstractLayer.java:112)
+                    ch.ethz.inf.vs.californium.layers.TokenLayer.doReceiveMessage(TokenLayer.java:166)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.deliverMessage(AbstractLayer.java:112)
+                    ch.ethz.inf.vs.californium.layers.TransferLayer.doReceiveMessage(TransferLayer.java:311)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.deliverMessage(AbstractLayer.java:112)
+                    ch.ethz.inf.vs.californium.layers.MatchingLayer.doReceiveMessage(MatchingLayer.java:145)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.deliverMessage(AbstractLayer.java:112)
+                    ch.ethz.inf.vs.californium.layers.TransactionLayer.doReceiveMessage(TransactionLayer.java:365)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.deliverMessage(AbstractLayer.java:112)
+                    ch.ethz.inf.vs.californium.layers.UDPLayer.doReceiveMessage(UDPLayer.java:234)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.UDPLayer.datagramReceived(UDPLayer.java:186)
+                    ch.ethz.inf.vs.californium.layers.UDPLayer.access$200(UDPLayer.java:57)
+                    ch.ethz.inf.vs.californium.layers.UDPLayer$ReceiverThread.run(UDPLayer.java:292)
+
+2015-10-04 17:09:01 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:57195|3124|ACK
+2015-10-04 17:09:01 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:57195#01 // RTT: 60042.247378ms
+2015-10-04 17:10:14 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:57195|3125|ACK
+2015-10-04 17:10:14 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:57195#01 // RTT: 132702.386291ms
+2015-10-04 17:10:15 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:57195|3125|ACK
+2015-10-04 17:10:15 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:57195#01 // RTT: 133382.051625ms
+2015-10-04 17:10:15 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:57195|3125|ACK
+2015-10-04 17:10:15 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:57195#01 // RTT: 133749.071599ms
+2015-10-04 17:11:01 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:57195|3126|ACK
+2015-10-04 17:11:01 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:57195#01 // RTT: 180046.886226ms
+2015-10-04 17:11:37 [util.Log] INFO - ==[ START-UP ]========================================================
+2015-10-04 17:11:37 [layers.CoapStack] INFO - CoapStack started
+2015-10-04 17:11:48 [layers.MatchingLayer] INFO - Remote endpoint failed to echo token: 127.0.0.1:59715|40475|CON
+2015-10-04 17:11:48 [layers.TokenLayer] INFO - Rejecting message: 127.0.0.1:59715|40475|RST
+2015-10-04 17:11:55 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:59715#--
+2015-10-04 17:11:58 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:59715#--
+2015-10-04 17:11:58 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:59715#--
+2015-10-04 17:11:58 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:59715#--
+2015-10-04 17:12:59 [coap.TokenManager] INFO - Token value: 195
+2015-10-04 17:13:08 [layers.TokenLayer] INFO - Requesting response for /2/0/3: 127.0.0.1:59715#C3
+2015-10-04 17:13:08 [coap.ObservingManager] INFO - Adding Observe subscription for /2/0/3: 127.0.0.1:59715#C3
+2015-10-04 17:13:08 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:59715#C3 // RTT: 39.229680ms
+2015-10-04 17:13:08 [layers.UDPLayer] SEVERE - Crash: null
+                    Stacktrace for java.lang.NullPointerException:
+                    com.hackathon.acs.lwm2mconnectorinbound.reporting.InformationReportingHandler$1.handleResponse(InformationReportingHandler.java:60)
+                    ch.ethz.inf.vs.californium.coap.CommunicatorFactory$CommonCommunicator.doReceiveMessage(CommunicatorFactory.java:285)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.deliverMessage(AbstractLayer.java:112)
+                    ch.ethz.inf.vs.californium.layers.UpperLayer.doReceiveMessage(UpperLayer.java:83)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.deliverMessage(AbstractLayer.java:112)
+                    ch.ethz.inf.vs.californium.layers.TokenLayer.doReceiveMessage(TokenLayer.java:166)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.deliverMessage(AbstractLayer.java:112)
+                    ch.ethz.inf.vs.californium.layers.TransferLayer.doReceiveMessage(TransferLayer.java:311)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.deliverMessage(AbstractLayer.java:112)
+                    ch.ethz.inf.vs.californium.layers.MatchingLayer.doReceiveMessage(MatchingLayer.java:145)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.deliverMessage(AbstractLayer.java:112)
+                    ch.ethz.inf.vs.californium.layers.TransactionLayer.doReceiveMessage(TransactionLayer.java:365)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.deliverMessage(AbstractLayer.java:112)
+                    ch.ethz.inf.vs.californium.layers.UDPLayer.doReceiveMessage(UDPLayer.java:234)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.UDPLayer.datagramReceived(UDPLayer.java:186)
+                    ch.ethz.inf.vs.californium.layers.UDPLayer.access$200(UDPLayer.java:57)
+                    ch.ethz.inf.vs.californium.layers.UDPLayer$ReceiverThread.run(UDPLayer.java:292)
+
+2015-10-04 17:14:08 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:59715|40477|ACK
+2015-10-04 17:14:08 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:59715#C3 // RTT: 60043.527087ms
+2015-10-04 17:15:28 [layers.UDPLayer] SEVERE - Crash: null
+                    Stacktrace for java.lang.NullPointerException:
+                    com.hackathon.acs.lwm2mconnectorinbound.reporting.InformationReportingHandler$1.handleResponse(InformationReportingHandler.java:60)
+                    ch.ethz.inf.vs.californium.coap.CommunicatorFactory$CommonCommunicator.doReceiveMessage(CommunicatorFactory.java:285)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.deliverMessage(AbstractLayer.java:112)
+                    ch.ethz.inf.vs.californium.layers.UpperLayer.doReceiveMessage(UpperLayer.java:83)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.deliverMessage(AbstractLayer.java:112)
+                    ch.ethz.inf.vs.californium.layers.TokenLayer.doReceiveMessage(TokenLayer.java:166)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.deliverMessage(AbstractLayer.java:112)
+                    ch.ethz.inf.vs.californium.layers.TransferLayer.doReceiveMessage(TransferLayer.java:311)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.deliverMessage(AbstractLayer.java:112)
+                    ch.ethz.inf.vs.californium.layers.MatchingLayer.doReceiveMessage(MatchingLayer.java:145)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.deliverMessage(AbstractLayer.java:112)
+                    ch.ethz.inf.vs.californium.layers.TransactionLayer.doReceiveMessage(TransactionLayer.java:365)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.deliverMessage(AbstractLayer.java:112)
+                    ch.ethz.inf.vs.californium.layers.UDPLayer.doReceiveMessage(UDPLayer.java:234)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.UDPLayer.datagramReceived(UDPLayer.java:186)
+                    ch.ethz.inf.vs.californium.layers.UDPLayer.access$200(UDPLayer.java:57)
+                    ch.ethz.inf.vs.californium.layers.UDPLayer$ReceiverThread.run(UDPLayer.java:292)
+
+2015-10-04 17:15:28 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:59715|40478|ACK
+2015-10-04 17:15:28 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:59715#C3 // RTT: 140506.894719ms
+2015-10-04 17:20:19 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:59715|40478|ACK
+2015-10-04 17:20:19 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:59715#C3 // RTT: 430878.762353ms
+2015-10-04 17:20:25 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:59715|40478|ACK
+2015-10-04 17:20:25 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:59715#C3 // RTT: 436822.760272ms
+2015-10-04 17:20:25 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:59715|40478|ACK
+2015-10-04 17:20:25 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:59715#C3 // RTT: 436845.801354ms
+2015-10-04 17:20:25 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:59715|40479|ACK
+2015-10-04 17:20:25 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:59715#C3 // RTT: 436851.107686ms
+2015-10-04 17:20:25 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:59715|40479|ACK
+2015-10-04 17:20:25 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:59715#C3 // RTT: 436864.826469ms
+2015-10-04 17:20:25 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:59715|40479|ACK
+2015-10-04 17:20:25 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:59715#C3 // RTT: 436868.766647ms
+2015-10-04 17:20:25 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:59715|40479|ACK
+2015-10-04 17:20:25 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:59715#C3 // RTT: 436875.998860ms
+2015-10-04 17:20:25 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:59715|40479|ACK
+2015-10-04 17:20:25 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:59715#C3 // RTT: 436879.886144ms
+2015-10-04 17:20:25 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:59715|40480|ACK
+2015-10-04 17:20:25 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:59715#C3 // RTT: 436883.426068ms
+2015-10-04 17:20:25 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:59715|40480|ACK
+2015-10-04 17:20:25 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:59715#C3 // RTT: 436886.945071ms
+2015-10-04 17:21:18 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:59715#--
+2015-10-04 17:21:25 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:59715#--
+2015-10-04 17:21:25 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:59715#--
+2015-10-04 17:21:25 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:59715#--
+2015-10-04 17:21:25 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:59715#--
+2015-10-04 17:21:25 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:59715#--
+2015-10-04 17:21:47 [util.Log] INFO - ==[ START-UP ]========================================================
+2015-10-04 17:21:47 [layers.CoapStack] INFO - CoapStack started
+2015-10-04 17:22:02 [layers.MatchingLayer] INFO - Remote endpoint failed to echo token: 127.0.0.1:52240|22589|CON
+2015-10-04 17:22:02 [layers.TokenLayer] INFO - Rejecting message: 127.0.0.1:52240|22589|RST
+2015-10-04 17:22:10 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:52240#--
+2015-10-04 17:22:10 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:52240#--
+2015-10-04 17:22:34 [coap.TokenManager] INFO - Token value: 195
+2015-10-04 17:22:34 [layers.TokenLayer] INFO - Requesting response for /2/0/3: 127.0.0.1:52240#C3
+2015-10-04 17:22:34 [coap.ObservingManager] INFO - Adding Observe subscription for /2/0/3: 127.0.0.1:52240#C3
+2015-10-04 17:22:34 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:52240#C3 // RTT: 24.086717ms
+2015-10-04 17:23:34 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:52240|22591|ACK
+2015-10-04 17:23:34 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:52240#C3 // RTT: 60028.957270ms
+2015-10-04 17:24:34 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:52240|22592|ACK
+2015-10-04 17:24:34 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:52240#C3 // RTT: 120040.300972ms
+2015-10-04 17:25:34 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:52240|22593|ACK
+2015-10-04 17:25:34 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:52240#C3 // RTT: 180041.984883ms
+2015-10-04 17:26:34 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:52240|22594|ACK
+2015-10-04 17:26:34 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:52240#C3 // RTT: 240044.958766ms
+2015-10-04 17:27:34 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:52240|22595|ACK
+2015-10-04 17:27:34 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:52240#C3 // RTT: 300046.756359ms
+2015-10-04 17:28:34 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:52240|22596|ACK
+2015-10-04 17:28:34 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:52240#C3 // RTT: 360049.669454ms
+2015-10-04 17:29:34 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:52240|22597|ACK
+2015-10-04 17:29:34 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:52240#C3 // RTT: 420052.813071ms
+2015-10-04 17:30:34 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:52240|22598|ACK
+2015-10-04 17:30:34 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:52240#C3 // RTT: 480055.032233ms
+2015-10-04 17:31:34 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:52240|22599|ACK
+2015-10-04 17:31:34 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:52240#C3 // RTT: 540057.305474ms
+2015-10-04 17:32:34 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:52240|22600|ACK
+2015-10-04 17:32:34 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:52240#C3 // RTT: 600060.264357ms
+2015-10-04 17:33:34 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:52240|22601|ACK
+2015-10-04 17:33:34 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:52240#C3 // RTT: 660062.900748ms
+2015-10-04 17:34:34 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:52240|22602|ACK
+2015-10-04 17:34:34 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:52240#C3 // RTT: 720066.954607ms
+2015-10-04 17:35:34 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:52240|22603|ACK
+2015-10-04 17:35:34 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:52240#C3 // RTT: 780069.966779ms
+2015-10-04 17:36:34 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:52240|22604|ACK
+2015-10-04 17:36:34 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:52240#C3 // RTT: 840070.236774ms
+2015-10-04 17:37:34 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:52240|22605|ACK
+2015-10-04 17:37:34 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:52240#C3 // RTT: 900072.553829ms
+2015-10-04 17:38:34 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:52240|22606|ACK
+2015-10-04 17:38:34 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:52240#C3 // RTT: 960075.200088ms
+2015-10-04 17:45:43 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:52240|22607|ACK
+2015-10-04 17:45:43 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:52240#C3 // RTT: 1388766.445171ms
+2015-10-04 17:46:43 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:52240|22608|ACK
+2015-10-04 17:46:43 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:52240#C3 // RTT: 1448778.869245ms
+2015-10-04 17:47:43 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:52240|22609|ACK
+2015-10-04 17:47:43 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:52240#C3 // RTT: 1508777.167177ms
+2015-10-04 17:48:43 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:52240|22610|ACK
+2015-10-04 17:48:43 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:52240#C3 // RTT: 1568780.363687ms
+2015-10-04 17:48:55 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:52240#C3
+2015-10-04 17:49:43 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:52240|22611|ACK
+2015-10-04 17:49:43 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:52240#C3 // RTT: 1628782.290356ms
+2015-10-04 17:53:08 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:52240#C3
+2015-10-04 17:53:08 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:52240|22612|ACK
+2015-10-04 17:53:08 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:52240#C3 // RTT: 1833695.699987ms
+2015-10-04 17:53:09 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:52240#C3
+2015-10-04 17:53:09 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:52240|22612|ACK
+2015-10-04 17:53:09 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:52240#C3 // RTT: 1834768.131451ms
+2015-10-04 17:53:09 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:52240#C3
+2015-10-04 17:53:09 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:52240|22612|ACK
+2015-10-04 17:53:09 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:52240#C3 // RTT: 1835180.231768ms
+2015-10-04 17:53:10 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:52240#C3
+2015-10-04 17:53:10 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:52240|22612|ACK
+2015-10-04 17:53:10 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:52240#C3 // RTT: 1835562.636280ms
+2015-10-04 17:53:10 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:52240#C3
+2015-10-04 17:53:10 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:52240|22612|ACK
+2015-10-04 17:53:10 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:52240#C3 // RTT: 1835947.554816ms
+2015-10-04 17:53:11 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:52240#C3
+2015-10-04 17:53:11 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:52240|22613|ACK
+2015-10-04 17:53:11 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:52240#C3 // RTT: 1836285.213713ms
+2015-10-04 17:53:57 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:52240#C3
+2015-10-04 17:53:57 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:52240|22613|ACK
+2015-10-04 17:53:57 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:52240#C3 // RTT: 1882583.780692ms
+2015-10-04 17:53:57 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:52240#C3
+2015-10-04 17:56:59 [util.Log] INFO - ==[ START-UP ]========================================================
+2015-10-04 17:56:59 [layers.CoapStack] INFO - CoapStack started
+2015-10-04 17:57:21 [layers.MatchingLayer] INFO - Remote endpoint failed to echo token: 127.0.0.1:63262|48325|CON
+2015-10-04 17:57:21 [layers.TokenLayer] INFO - Rejecting message: 127.0.0.1:63262|48325|RST
+2015-10-04 17:57:43 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:63262#--
+2015-10-04 17:57:46 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:63262#--
+2015-10-04 17:57:46 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:63262#--
+2015-10-04 17:57:46 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:63262#--
+2015-10-04 17:58:09 [coap.TokenManager] INFO - Token value: 241
+2015-10-04 17:58:09 [layers.TokenLayer] INFO - Requesting response for /2/0/3: 127.0.0.1:63262#F1
+2015-10-04 17:58:09 [coap.ObservingManager] INFO - Adding Observe subscription for /2/0/3: 127.0.0.1:63262#F1
+2015-10-04 17:58:09 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:63262#F1 // RTT: 33.739008ms
+2015-10-04 17:59:09 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:63262|48327|ACK
+2015-10-04 17:59:09 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:63262#F1 // RTT: 60039.598356ms
+2015-10-04 18:00:09 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:63262|48328|ACK
+2015-10-04 18:00:09 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:63262#F1 // RTT: 120041.412922ms
+2015-10-04 18:01:09 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:63262|48329|ACK
+2015-10-04 18:01:09 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:63262#F1 // RTT: 180044.173652ms
+2015-10-04 18:01:24 [layers.UDPLayer] SEVERE - Crash: null
+                    Stacktrace for java.lang.NullPointerException:
+                    ch.ethz.inf.vs.californium.coap.CommunicatorFactory$CommonCommunicator.doSendMessage(CommunicatorFactory.java:308)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.sendMessage(AbstractLayer.java:93)
+                    ch.ethz.inf.vs.californium.coap.Message.send(Message.java:914)
+                    com.hackathon.acs.lwm2mconnectorinbound.reporting.InformationReportingHandler$1.handleResponse(InformationReportingHandler.java:65)
+                    ch.ethz.inf.vs.californium.coap.CommunicatorFactory$CommonCommunicator.doReceiveMessage(CommunicatorFactory.java:285)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.deliverMessage(AbstractLayer.java:112)
+                    ch.ethz.inf.vs.californium.layers.UpperLayer.doReceiveMessage(UpperLayer.java:83)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.deliverMessage(AbstractLayer.java:112)
+                    ch.ethz.inf.vs.californium.layers.TokenLayer.doReceiveMessage(TokenLayer.java:166)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.deliverMessage(AbstractLayer.java:112)
+                    ch.ethz.inf.vs.californium.layers.TransferLayer.doReceiveMessage(TransferLayer.java:311)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.deliverMessage(AbstractLayer.java:112)
+                    ch.ethz.inf.vs.californium.layers.MatchingLayer.doReceiveMessage(MatchingLayer.java:145)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.deliverMessage(AbstractLayer.java:112)
+                    ch.ethz.inf.vs.californium.layers.TransactionLayer.doReceiveMessage(TransactionLayer.java:365)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.deliverMessage(AbstractLayer.java:112)
+                    ch.ethz.inf.vs.californium.layers.UDPLayer.doReceiveMessage(UDPLayer.java:234)
+                    ch.ethz.inf.vs.californium.layers.AbstractLayer.receiveMessage(AbstractLayer.java:69)
+                    ch.ethz.inf.vs.californium.layers.UDPLayer.datagramReceived(UDPLayer.java:186)
+                    ch.ethz.inf.vs.californium.layers.UDPLayer.access$200(UDPLayer.java:57)
+                    ch.ethz.inf.vs.californium.layers.UDPLayer$ReceiverThread.run(UDPLayer.java:292)
+
+2015-10-04 18:02:09 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:63262|48330|ACK
+2015-10-04 18:02:09 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:63262#F1 // RTT: 240053.745419ms
+2015-10-04 18:02:32 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:63262#F1
+2015-10-04 18:03:09 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:63262|48331|ACK
+2015-10-04 18:03:09 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:63262#F1 // RTT: 300054.017386ms
+2015-10-04 18:03:13 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:63262#F1
+2015-10-04 18:04:09 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:63262|48332|ACK
+2015-10-04 18:04:09 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:63262#F1 // RTT: 360052.009404ms
+2015-10-04 18:14:22 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:63262#F1
+2015-10-04 18:14:22 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:63262|48333|ACK
+2015-10-04 18:14:22 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:63262#F1 // RTT: 972549.596034ms
+2015-10-04 18:14:25 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:63262#F1
+2015-10-04 18:14:25 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:63262|48333|ACK
+2015-10-04 18:14:25 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:63262#F1 // RTT: 976255.286201ms
+2015-10-04 18:14:26 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:63262#F1
+2015-10-04 18:14:26 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:63262|48333|ACK
+2015-10-04 18:14:26 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:63262#F1 // RTT: 976950.506594ms
+2015-10-04 18:14:26 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:63262#F1
+2015-10-04 18:14:26 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:63262|48333|ACK
+2015-10-04 18:14:26 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:63262#F1 // RTT: 977190.156028ms
+2015-10-04 18:14:27 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:63262#F1
+2015-10-04 18:14:27 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:63262|48333|ACK
+2015-10-04 18:14:27 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:63262#F1 // RTT: 977370.273325ms
+2015-10-04 18:14:27 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:63262#F1
+2015-10-04 18:14:27 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:63262|48334|ACK
+2015-10-04 18:14:27 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:63262#F1 // RTT: 977533.532565ms
+2015-10-04 18:14:27 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:63262#F1
+2015-10-04 18:14:27 [layers.TokenLayer] INFO - Accepting message: 127.0.0.1:63262|48334|ACK
+2015-10-04 18:14:27 [layers.TokenLayer] INFO - Incoming response from /2/0/3: 127.0.0.1:63262#F1 // RTT: 977754.699240ms
+2015-10-04 18:14:27 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:63262#F1
+2015-10-04 21:33:22 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:9000#69 63 2F 05
+2015-10-04 21:33:36 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:9000#69 63 2F 05
+2015-10-04 21:36:04 [layers.TokenLayer] INFO - Incoming request: 127.0.0.1:9000#6E 4E 28 27
+2015-10-04 21:36:04 [layers.TokenLayer] INFO - Responding request: 127.0.0.1:9000#6E 4E 28 27

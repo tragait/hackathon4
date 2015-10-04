@@ -15,12 +15,14 @@ import ch.ethz.inf.vs.californium.coap.ResponseHandler;
 import ch.ethz.inf.vs.californium.coap.TokenManager;
 import ch.ethz.inf.vs.californium.coap.registries.CodeRegistry;
 import ch.ethz.inf.vs.californium.coap.registries.OptionNumberRegistry;
+import ch.ethz.inf.vs.californium.dtls.ContentType;
 
 import com.hackathon.acs.lwm2m.common.InvalidClientIdentifierException;
 import com.hackathon.acs.lwm2m.common.LWM2MClient;
 import com.hackathon.acs.lwm2m.common.uri.InternalUriIdentifier;
 import com.hackathon.acs.lwm2m.common.uri.InvalidUriPathException;
 import com.hackathon.acs.lwm2m.common.uri.UriHandler;
+import com.hackathon.acs.lwm2mconnectorinbound.client.test.GETClient;
 import com.hackathon.acs.lwm2mconnectorinbound.server.LWM2MServer;
 import com.hackathon.acs.lwm2mconnectorinbound.utils.RandomStringGenerator;
 
@@ -48,7 +50,21 @@ public class InformationReportingHandler implements ResponseHandler{
 		int intValueOfAquiredToken = new BigInteger(1, acquiredToken).intValue();
 		LWM2MServer.getInstance().getObserverTokenClientIdMapping().put(intValueOfAquiredToken, clientId);
 		client.getObserveRegistry().put(intValueOfAquiredToken, observationEntry);
-		Request request = new GETRequest();
+		Request request = new GETRequest(){
+			protected void handleResponse(Response response) {
+				System.out.println(response.toString());
+				response.prettyPrint();
+				String token = response.getTokenString();
+				Integer temp = Integer.parseInt(token.trim(), 16 );
+				String clientURI = response.getPeerAddress().toString();
+				LWM2MClient client = LWM2MServer.getInstance().getClientFromURI(clientURI);
+				Map<Integer, LWM2MObservationEntry> observeRegistry = client.getObserveRegistry();
+				if(!observeRegistry.isEmpty() && observeRegistry.get(temp)!=null && observeRegistry.get(temp).isCancellationRequested()){
+					response.setType(messageType.RST );
+					response.send();
+				}
+			}
+		};
 		request.setURI(client.getUri());
 		request.setObserve();
 		request.setUriPath(uriPath);
